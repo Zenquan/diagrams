@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T02:30:01.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="c94L8x5ssmpuuSRkBpbV" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T02:37:59.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="gJx7wW8IJHeglUpn4uv_" version="13.7.5" type="github">
   <diagram id="VWrkXYGKEfET8-1Gi5ar" name="Page-1">
     <mxGraphModel dx="946" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="qSmSMo2xrYb3xllJPeNW-18" value="行李箱区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qSmSMo2xrYb3xllJPeNW-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qSmSMo2xrYb3xllJPeNW-20" value="鞋柜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="455" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
