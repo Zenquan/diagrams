@@ -7,10 +7,9 @@ on:
   push:
     branches:
       - master  # 只在ali-ecs上push触发部署
-    paths:   
-      - 'img'
-      - 'mind'
-      - 'uml'
+    paths-ignore:   # 下列文件的变更不触发部署，可以自行添加
+      - 'readme.md'
+      - 'deploy.sh'
 
 jobs:
   deploy:
