@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e" modified="2020-12-11T05:55:00.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.51.1 Chrome/83.0.4103.122 Electron/9.3.3 Safari/537.36" etag="W_WAqOK9uZ2D9-bJ2BWk" version="13.10.0" type="embed">
+    <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+        <mxGraphModel dx="712" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
+                <mxCell id="dUT-KoFHQ_Au8_Qyki41-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dUT-KoFHQ_Au8_Qyki41-0" target="dUT-KoFHQ_Au8_Qyki41-1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dUT-KoFHQ_Au8_Qyki41-0" value="JSX/TSX" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="100" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="dUT-KoFHQ_Au8_Qyki41-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dUT-KoFHQ_Au8_Qyki41-1" target="dUT-KoFHQ_Au8_Qyki41-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dUT-KoFHQ_Au8_Qyki41-1" value="babel" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="320" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="dUT-KoFHQ_Au8_Qyki41-2" value="@babel/plugin-transform-react-jsx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="280" y="400" width="200" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="dUT-KoFHQ_Au8_Qyki41-3" value="@babel/preset-react" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="320" y="370" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="dUT-KoFHQ_Au8_Qyki41-5" value="&lt;div&gt;React.createElement(&quot;div&quot;, null, /*#__PURE__*/React.createElement(&quot;div&quot;, null, /*#__PURE__*/React.createElement(&quot;span&quot;, null, &quot;11111&quot;)));&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; isActived &amp;amp;&amp;amp; /*#__PURE__*/React.createElement(&quot;div&quot;, null, &quot;222&quot;);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="225" y="560" width="310" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
