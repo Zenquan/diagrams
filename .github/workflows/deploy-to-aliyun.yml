@@ -1,9 +1,6 @@
 name: deploy to aliyun
 
-on:
-  schedule:
-    - cron: "1 * * * *"
-      
+on:      
   push:
     branches:
       - master  # 只在ali-ecs上push触发部署
