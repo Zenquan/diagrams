@@ -8,9 +8,9 @@ on:
     branches:
       - master  # 只在ali-ecs上push触发部署
     paths:   
-      - img
-      - mind
-      - uml
+      - 'img'
+      - 'mind'
+      - 'uml'
 
 jobs:
   deploy:
@@ -19,7 +19,7 @@ jobs:
 
     env:
       TZ: Asia/Shanghai
-      
+
     steps:  # 自动化步骤
     - uses: actions/checkout@v2   # 第一步，下载代码仓库
 
