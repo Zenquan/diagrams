@@ -8,11 +8,12 @@
 
 图片路径：
 
-url: pic.joyenjoy.tech/A/B.png,
-markdown: ![](pic.joyenjoy.tech/A/B.png)
+- url: pic.joyenjoy.tech/A/B.png,
+- markdown: ![](pic.joyenjoy.tech/A/B.png)
 
- - A: img/mind/uml/...
- - B: 20201211140908.png or xxx/.../...png
+ A: img/mind/uml/...
+ 
+ B: 20201211140908.png or xxx/.../...png
 
 ### 好处
 
