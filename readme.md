@@ -9,7 +9,7 @@
 图片路径：
 
 - url: pic.joyenjoy.tech/A/B.png,
-- markdown: ![](pic.joyenjoy.tech/A/B.png)
+- markdown: `![](pic.joyenjoy.tech/A/B.png)`
 
  A: img/mind/uml/...
  
