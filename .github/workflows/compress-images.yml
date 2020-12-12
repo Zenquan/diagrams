@@ -3,11 +3,14 @@ on:
   pull_request:
     # Run Image Actions when JPG, JPEG, PNG or WebP files are added or changed.
     # See https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#onpushpull_requestpaths for reference.
-    paths:
-      - 'img/**.jpg'
-      - 'img/**.jpeg'
-      - 'img/**.png'
-      - 'img/**.webp'
+#     paths:
+#       - 'img/**.jpg'
+#       - 'img/**.jpeg'
+#       - 'img/**.png'
+#       - 'img/**.webp'
+   paths-ignore:   # 下列文件的变更不触发部署，可以自行添加
+      - 'readme.md'
+      - 'deploy.sh'
 jobs:
   build:
     # Only run on Pull Requests within the same repository, and not from forks.
