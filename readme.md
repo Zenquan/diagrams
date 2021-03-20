@@ -15,7 +15,7 @@
 
 ### 缺点
 
-- github在国内网速有点感人。
+- github在国内网速有点感人。（最近找到了解决方法，采用https://cdn.jsdelivr.net提供的cdn服务）
 
 
 ### TODO
