@@ -12,11 +12,11 @@
 
 - 图床由自己控制，比较集中且容量完全足够。
 - 更新uml和mind的目录下uml或脑图的内容，进而动态更新对应img目录下生成的图片（之前找了一圈没有发现这样的产品）。
-- 采用https://cdn.jsdelivr.net提供的cdn服务加速
+- 采用[https://cdn.jsdelivr.net](https://cdn.jsdelivr.net)提供的cdn服务加速
 
 ### 缺点（目前的缺点已经解决）
 
-- github在国内网速有点感人。（最近找到了解决方法，采用https://cdn.jsdelivr.net提供的cdn服务加速）
+- github在国内网速有点感人。（最近找到了解决方法，采用[https://cdn.jsdelivr.net](https://cdn.jsdelivr.net)提供的cdn服务加速）
 
 
 ### TODO
