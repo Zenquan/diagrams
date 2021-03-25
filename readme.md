@@ -6,7 +6,7 @@
 - IThoungtsX 画完思维导图后保存多一份png图片， 通过git push更新。
 - drawio 画完UML图后保存多一份png图片，通过drawio update来更新。
 
-图片路径见： https://browser-helper.vercel.app/diagrams 或者 browserHelper的 diagrams工具
+图片路径见： https://browser-helper.vercel.app/diagrams/ 或者 browserHelper的 diagrams工具
 
 ### 好处
 
