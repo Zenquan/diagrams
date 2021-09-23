@@ -7,17 +7,17 @@ on:
       - 'img/**'
       - 'album/**'
       - 'emoji/**'
-#     paths-ignore:   # 下列文件的变更不触发部署，可以自行添加
-#       - 'readme.md'
-#       - 'deploy.sh'
+    paths-ignore:   # 下列文件的变更不触发部署，可以自行添加
+      - 'readme.md'
+      - 'deploy.sh'
 jobs:
   build:
     name: calibreapp/image-actions
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2  
       - name: Compress Images
-        uses: calibreapp/image-actions@master
+        uses: calibreapp/image-actions@1.1.0
         with:
           githubToken: ${{ secrets.MG }}
           jpegQuality: "80"
